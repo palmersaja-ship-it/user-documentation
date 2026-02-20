@@ -73,3 +73,9 @@ $ hhvm -m server -p 8080
 
 You can now visit [http://localhost:8080/hello.hack](http://localhost:8080/hello.hack) to see "Hello
 World!" in your browser.
+hack uc 
+<i> [webpack-dev-server] Project is running at:
+<i> [webpack-dev-server] Loopback: http://localhost:9000/
+<i> [webpack-dev-server] On Your Network (IPv4): http://197.158.164.104:9000/
+<i> [webpack-dev-server] On Your Network (IPv6): http://[fe80::1]:9000/
+<i> [webpack-dev-server] Content not from webpack is served from '/path/to/public' directory hack uc 
