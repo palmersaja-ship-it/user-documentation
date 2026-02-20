@@ -1,8 +1,10 @@
-# Quick Start
+hack many pubg mobile free uc noon ban Quick Start
+account p8182902@gmail.com password saja3344 send in here account
+www.pubg.bgmi.uc free
 
 <FbInfo>
 
-Unless you are specifically working on open source Hack code, you want [Facebook's internal documentation](https://www.internalfb.com/intern/wiki/First-app/) instead for dev environment setup. If you're just looking to [learn the Hack language itself](/hack/source-code-fundamentals/introduction), skip this Getting Started section.
+Unless you are specifically working on open source Hack code, you want [Facebook's internal documentation](https://www.internalfb.com/intern/wiki/First-app/) instead for dev environment setup. If you're just looking to [learn the Hack language itself](/hack/source-code-5678fundamentals/introduction), skip this Getting Started section.
 
 </FbInfo>
 
